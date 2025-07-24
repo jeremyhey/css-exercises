@@ -48,6 +48,7 @@ button {
 a {
   color: #666;
   text-decoration: none;
+  margin: 8px 0;
 }
 
 .header,
